@@ -16,6 +16,7 @@
     "node-wit": "^2.0.0",
     "request": "^2.70.0",
     "simple-ssh": "^0.8.9",
-    "slackbots": "git://github.com/alohr51/slack-bot-api.git"
+    "slackbots": "git://github.com/alohr51/slack-bot-api.git",
+    "watson-developer-cloud": "^3.13.1"
   }
 }
